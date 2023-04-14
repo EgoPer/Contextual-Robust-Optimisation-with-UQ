@@ -1,6 +1,6 @@
 # Code for the experiments in the paper "Contextual Robust Optimisation with Uncertainty Quantification"
 
-This [paper](https://miguelanjos.com/conferences) was accepted to the short paper track at CPAIOR 2023. The core ambition was to develop pipelines that exploit covariate information to construct more appropriate ambiguity/uncertainty sets. On the flip side, this enables us to achieve a degree of decision robustness with respect to the prediction model, reducing the risk that overfitting in the prediction model leads to severely suboptimal decisions.
+This [paper](https://c-cluster-110.uploads.documents.cimpress.io/v1/uploads/df536151-1efd-4301-9a11-fb43aeea1a84~110/original?tenant=vbu-digital) was accepted to the short paper track at CPAIOR 2023. The core ambition was to develop pipelines that exploit covariate information to construct more appropriate ambiguity/uncertainty sets. On the flip side, this enables us to achieve a degree of decision robustness with respect to the prediction model, reducing the risk that overfitting in the prediction model leads to severely suboptimal decisions.
 
 ## Abstract
 
